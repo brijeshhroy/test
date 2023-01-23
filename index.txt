@@ -1,0 +1,26 @@
+
+1. Global Objects
+
+2. Modules - module1.js to module18.js are part of module.exports
+
+3. OS - Operating system modules
+
+4. Path module
+
+5. Path.join  & PAth.basename- it's various possible input with '\' and '/'
+
+6. Path.resolve
+
+7. File system Synchronus
+
+8. File system Asynchronus
+
+9. 7 + console.log to understand sync 
+
+10. 8 + console.log to understand async
+
+11. Http - Brief intro
+
+12. Http - A bit about functioning of req and res with url
+
+13. npm intro
